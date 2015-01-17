@@ -1,0 +1,8 @@
+{"namespace": "org.way2bigdata.avro.schema",
+ "type": "record",
+ "name": "Employee",
+ "fields": [
+     {"name": "name", "type": "string"},
+     {"name": "emp_id",  "type": ["int", "null"]},
+ ]
+}
