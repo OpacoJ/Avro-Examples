@@ -3,6 +3,6 @@
  "name": "Employee",
  "fields": [
      {"name": "name", "type": "string"},
-     {"name": "emp_id",  "type": ["int", "null"]},
+     {"name": "emp_id",  "type": ["int", "null"]}
  ]
 }
