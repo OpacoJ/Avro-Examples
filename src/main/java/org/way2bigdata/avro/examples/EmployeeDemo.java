@@ -7,7 +7,7 @@ import java.util.List;
 import org.way2bigdata.avro.schema.Employee;
 
 /**
- * Hello world!
+ * Hello world!!
  *
  */
 public class EmployeeDemo {
